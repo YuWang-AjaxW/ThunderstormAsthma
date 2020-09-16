@@ -15,21 +15,19 @@ Technology/Framework Used: We are designinng a website using AWS Wordpress.
 Features: The website includes a number of features based on the user personas we created: 
 1) It has a storm forecasting feature 
 2) We can download have an asthma action plan 
-3) Also users
+3) Also users can provide feedbacks if they want to
+4) The chatbot can be used if the user has any questions to ask
 
-Code examples:
+How to use: To use our website just click on the link below:
+thunderstormasthma.cf
 
-Installation:
+Contributors: Team ME06
+1)Yu Wang
+2)Jia Qi Xing
+3)Xiaolu Lu
+4)Xiaoyu Zhang
+5)Nupur Sharma
 
-API references:
 
-Tests:
-
-How to use:
-
-Contributors:
-
-Credits:
-
-License:
+License: Copyright © 2020 WaterDrop Team
 
