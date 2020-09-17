@@ -21,6 +21,12 @@ Features: The website includes a number of features based on the user personas w
 How to use: To use our website just click on the link below:
 thunderstormasthma.cf
 
+Sub directions for iteration 1:
+https://www.thunderstormasthma.cf/home_frontpage_iteration1/
+https://www.thunderstormasthma.cf/about_interation1/
+https://www.thunderstormasthma.cf/asthma_interation1/
+https://www.thunderstormasthma.cf/contact_iteration1/
+
 Contributors: Team ME06
 1)Yu Wang
 2)Jia Qi Xing
