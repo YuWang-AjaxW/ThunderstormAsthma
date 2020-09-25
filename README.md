@@ -27,6 +27,12 @@ https://www.thunderstormasthma.cf/about_interation1/
 https://www.thunderstormasthma.cf/asthma_interation1/
 https://www.thunderstormasthma.cf/contact_iteration1/
 
+Technical function：
+weather forecast(open weather API key + plugin)
+quiz for understanding what is thunderstorm asthama
+firewall(by WordPress plugin and to help our page in safe. aovid risk issue such as XSS attack)
+SSL centification(help to save our page)
+
 Contributors: Team ME06
 1)Yu Wang
 2)Jia Qi Xing
