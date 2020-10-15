@@ -36,6 +36,7 @@ database(phpmyadmin)
 data visualization about pollen
 table for listing hospital
 online chat
+optimization about the load time 
 
 Contributors: Team ME06
 1)Yu Wang
