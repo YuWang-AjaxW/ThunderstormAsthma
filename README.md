@@ -32,6 +32,10 @@ weather forecast(open weather API key + plugin)
 quiz for understanding what is thunderstorm asthama
 firewall(by WordPress plugin and to help our page in safe. aovid risk issue such as XSS attack)
 SSL centification(help to save our page)
+database(phpmyadmin)
+data visualization about pollen
+table for listing hospital
+online chat
 
 Contributors: Team ME06
 1)Yu Wang
