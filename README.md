@@ -23,9 +23,9 @@ thunderstormasthma.cf
 
 Sub directions for iteration 1:
 https://www.thunderstormasthma.cf/home_frontpage_iteration1/
-https://www.thunderstormasthma.cf/about_interation1/
-https://www.thunderstormasthma.cf/asthma_interation1/
-https://www.thunderstormasthma.cf/contact_iteration1/
+
+Sub directions for iteration 2:
+https://www.thunderstormasthma.cf/home_itertation2/
 
 Technical function：
 weather forecast(open weather API key + plugin)
