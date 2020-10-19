@@ -21,10 +21,10 @@ Features: The website includes a number of features based on the user personas w
 How to use: To use our website just click on the link below:
 thunderstormasthma.cf
 
-Sub directions for iteration 1:
+Sub domain for iteration 1:
 https://www.thunderstormasthma.cf/home_frontpage_iteration1/
 
-Sub directions for iteration 2:
+Sub domain for iteration 2:
 https://www.thunderstormasthma.cf/home_itertation2/
 
 Technical function：
