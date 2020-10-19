@@ -38,7 +38,7 @@ table for listing hospital
 online chat
 optimization about the load time 
 
-Hostiing: AWS EC2
+Hosting: AWS EC2
 domain website: freenom.com
 
 The step operate the hosting:
