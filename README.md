@@ -38,6 +38,37 @@ table for listing hospital
 online chat
 optimization about the load time 
 
+Hostiing: AWS EC2
+domain website: freenom.com
+
+The step operate the hosting:
+1. Go to AWS website(https://aws.amazon.com)
+2. Log in to the console by using the account and password below:
+    account:me6waterdropteam@gmail.com
+    password: Wy89986050!
+3. Choose the service EC2 and open it
+4. Go to the instance
+5. If the exiting instance is not working, right click and start the instance
+6. The website should running now.
+
+The step change the domain:
+1. Go to the website(https://www.freenom.com)
+2. Log in with the Google account (me6waterdropteam@gmail.com)
+3. Go to the my domain where under the Services.
+4. You can check or change the domain here.
+
+The step operate the website on WordPress:
+1. Open the website(https://www.thunderstormasthma.cf/admin)
+2. Log in with the account and password below:
+   Account: user
+   Password: OBxPE97gNGi5
+3. Now you are in, and you can use everything on the dashboard for changing the website.
+4. Change the appearance by clicking the Appearance
+5. Add or check plugins by clicking the Plugins
+6. Vist all page information by clinking the Pages
+
+
+
 Contributors: Team ME06
 1)Yu Wang
 2)Jia Qi Xing
