@@ -27,6 +27,9 @@ https://www.thunderstormasthma.cf/home_frontpage_iteration1/
 Sub domain for iteration 2:
 https://www.thunderstormasthma.cf/home_itertation2/
 
+Sub domain for iteration 3:
+https://www.thunderstormasthma.cf/home_iteration3/
+
 Technical function：
 weather forecast(open weather API key + plugin)
 quiz for understanding what is thunderstorm asthama
