@@ -46,9 +46,7 @@ domain website: freenom.com
 
 The step operate the hosting:
 1. Go to AWS website(https://aws.amazon.com)
-2. Log in to the console by using the account and password below:
-    account:me6waterdropteam@gmail.com
-    password: Wy89986050!
+2. Log in to the console by using the account and password
 3. Choose the service EC2 and open it
 4. Go to the instance
 5. If the exiting instance is not working, right click and start the instance
@@ -62,9 +60,7 @@ The step change the domain:
 
 The step operate the website on WordPress:
 1. Open the website(https://www.thunderstormasthma.cf/admin)
-2. Log in with the account and password below:
-   Account: user
-   Password: OBxPE97gNGi5
+2. Log in with the account and password
 3. Now you are in, and you can use everything on the dashboard for changing the website.
 4. Change the appearance by clicking the Appearance
 5. Add or check plugins by clicking the Plugins
